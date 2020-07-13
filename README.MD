@@ -2,6 +2,7 @@
 
 Get the enclosure from https://www.thingiverse.com/thing:4540980
 
+![alt text](https://github.com/Asyasyarif/Touchless-Water-Tap/blob/master/result/1.jpg?raw=true)
 
 # Hardware
 - Arduino Pro Mini
